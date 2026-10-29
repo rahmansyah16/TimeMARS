@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "CapWaktu Kamera Stempel",
-  "short_name": "CapWaktu",
+  "name": "TimeMARS Kamera Stempel",
+  "short_name": "TimeMARS",
   "description": "Kamera dengan stempel waktu, tanggal, lokasi GPS, logo dan catatan kegiatan.",
   "lang": "id",
   "start_url": "./",
