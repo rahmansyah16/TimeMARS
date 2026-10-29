@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "CapWaktu Kamera Stempel",
+  "short_name": "CapWaktu",
+  "description": "Kamera dengan stempel waktu, tanggal, lokasi GPS, logo dan catatan kegiatan.",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c0f13",
+  "theme_color": "#0c0f13",
+  "categories": ["photo", "productivity", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
